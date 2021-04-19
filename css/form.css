@@ -1,0 +1,16 @@
+/**
+ * Styles for the add-observation.html page 
+ */
+.required {
+  color: red;
+}
+
+#Licence-help {
+  color: rgb(0, 140, 255);
+}
+
+#required,
+#latitude,
+#longitude {
+  color: red;
+}
